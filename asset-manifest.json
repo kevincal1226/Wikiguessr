@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Wikiguessr/static/css/main.f855e6bc.css",
-    "main.js": "/Wikiguessr/static/js/main.368ae6ff.js",
+    "main.js": "/Wikiguessr/static/js/main.2497a870.js",
     "static/js/453.5b50c5d8.chunk.js": "/Wikiguessr/static/js/453.5b50c5d8.chunk.js",
     "static/media/logo.svg": "/Wikiguessr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Wikiguessr/index.html",
     "main.f855e6bc.css.map": "/Wikiguessr/static/css/main.f855e6bc.css.map",
-    "main.368ae6ff.js.map": "/Wikiguessr/static/js/main.368ae6ff.js.map",
+    "main.2497a870.js.map": "/Wikiguessr/static/js/main.2497a870.js.map",
     "453.5b50c5d8.chunk.js.map": "/Wikiguessr/static/js/453.5b50c5d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.368ae6ff.js"
+    "static/js/main.2497a870.js"
   ]
 }
